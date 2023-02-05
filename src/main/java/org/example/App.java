@@ -9,7 +9,7 @@ public class App {
         System.out.println("Hello World!");
     }
 
-    public static Integer min(Integer[] numbers) {
+    public static Integer minimum(Integer[] numbers) {
         Integer min = Integer.MAX_VALUE;
 
         for (Integer num : numbers) {
